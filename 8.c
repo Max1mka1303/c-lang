@@ -2,7 +2,7 @@
     void pulse(){
         printf("@");
     }
-    char main(void){
+    int main(void){
         pulse();
         printf("\n");
         pulse(), pulse();
