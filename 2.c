@@ -1,7 +1,7 @@
 #include <stdio.h>
     char main(void) {
-    printf("[Иванов И.И]\n");
-    printf(" Иванов\n");
-    printf("        И.И\n");
-    printf("]И.И.Иванов[");
+    printf("[Нгуен.М.Ш]\n");
+    printf(" Нгуен\n");
+    printf("       М.Ш\n");
+    printf("]Ш.М.Нгуен[");
     }
