@@ -7,7 +7,7 @@
         phase_2();
         printf("GAMMA ");
     }
-    char main(void){
+    int main(void){
         printf("START ");
         phase_1();
         printf("END");
