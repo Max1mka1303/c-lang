@@ -1,5 +1,5 @@
 #include <stdio.h>
-    char main(void) {
+    int main(void) {
         printf("[Нгуен.М.Ш]\n");
         printf(" Нгуен\n");
         printf("       М.Ш\n");
